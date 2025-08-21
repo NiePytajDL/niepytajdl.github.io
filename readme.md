@@ -15,3 +15,4 @@ body {
  <b><p style="font-size:48px">Otworzy ci w nowej karcie</p></b>
   <img src="https://pbs.twimg.com/media/Gy5QQpmXwAAtbPg.png" withd=450px height=450px alt="dzieki github"> 
   <desc>dzieki github</desc>
+<p><a href="https://niepytajdl.github.io/about.html">About!!!!</a></p>
