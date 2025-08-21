@@ -12,6 +12,7 @@ body {
  <p style="color:black;">Zdjęcie testowe.</p>
   <img src="https://pbs.twimg.com/media/GyqMXG3XkAMHv6W.jpg" withd=500 height=500 alt="misio:3">
 <p><a href="https://x.com/NatlParkService/" target="_blank">https://x.com/NatlParkService</a></p>
-  <img src="https://pbs.twimg.com/media/Gy5QQpmXwAAtbPg.png" withd=250px height=250px alt="dzieki github"> 
+ <p> style="font-size:11px"><b></b>Otworzy ci w nowej karcie</b></p>
+  <img src="https://pbs.twimg.com/media/Gy5QQpmXwAAtbPg.png" withd=450px height=450px alt="dzieki github"> 
   <desc>dzieki github</desc>
 
