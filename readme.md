@@ -11,7 +11,7 @@ body {
 <p style="color:red;">Niebieski paragraf prawny.</p> 
  <p style="color:black;">Zdjęcie testowe.</p>
   <img src="https://pbs.twimg.com/media/GyqMXG3XkAMHv6W.jpg" withd=500 height=500 alt="misio:3">
-<p><desc><a href="https://x.com/NatlParkService/"target="_blank">https://x.com/NatlParkService</a></desc></p>
+<desc><a href="https://x.com/NatlParkService/"target="_blank">https://x.com/NatlParkService</a></desc>
   <img src="https://pbs.twimg.com/media/Gy5QQpmXwAAtbPg.png" withd=250px height=250px alt="dzieki github"> 
   <desc>dzieki github</desc>
 
