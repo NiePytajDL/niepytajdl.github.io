@@ -7,12 +7,5 @@ body {
 }
 </style>
 </head>
-<body>
-
-<h1>SLFKJAAAAAAAAAAAAAAAAAA</h1>
-
-<p>IS TOLE STIADHIDLKGISTOLE THIS</p>
-
-</body>
-</html>
-
+ <h1 style="color:green;">Zielony headerg</h1>
+<p style="color:red;">Niebieski paragraf prawny.</p> 
