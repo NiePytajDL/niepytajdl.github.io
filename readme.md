@@ -14,5 +14,5 @@ body {
 <p><a href="https://x.com/NatlParkService/" target="_blank">https://x.com/NatlParkService</a></p>
  <b><p style="font-size:48px">Otworzy ci w nowej karcie</p></b>
   <img src="https://pbs.twimg.com/media/Gy5QQpmXwAAtbPg.png" withd=450px height=450px alt="dzieki github"> 
-  <desc>dzieki github</desc>
+  <p>dzieki github</p>
 <p><a href="https://niepytajdl.github.io/about.html">About!!!!</a></p>
